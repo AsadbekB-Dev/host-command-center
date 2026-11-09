@@ -68,4 +68,4 @@ Property data in `data/properties.json` is **demo data**. Secrets, the database 
 
 ---
 
-*© Asad Kurbonov. Shared for portfolio purposes.*
+*© Asadbek Bakhodirov. Shared for portfolio purposes.*
