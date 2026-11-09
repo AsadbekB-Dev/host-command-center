@@ -1,0 +1,10 @@
+{
+  "safe_mode": true,
+  "notification_recipient": "",
+  "hospitable_base_url": "https://public.api.hospitable.com/v2",
+  "auto_send_approval_email": true,
+  "shadow_poll_seconds": 300,
+  "allow_live_booking_action": false,
+  "allow_live_pricing": false,
+  "allow_guest_message_send": false
+}

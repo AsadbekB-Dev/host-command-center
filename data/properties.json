@@ -1,0 +1,44 @@
+[
+  {
+    "key": "DEMO_3BR",
+    "name": "Demo House — 3BR",
+    "address": "123 Example St, Springfield, CA 00000",
+    "bedrooms": 3,
+    "bathrooms": 2.0,
+    "max_guests": 7,
+    "nightly_floor": 240,
+    "nightly_target": 325,
+    "nightly_ceiling": 650,
+    "cleaning_cost": 180,
+    "enabled": true,
+    "hospitable_property_id": ""
+  },
+  {
+    "key": "DEMO_A_2BR",
+    "name": "Demo Unit A — 2BR",
+    "address": "456 Sample Ave Unit A, Springfield, CA 00000",
+    "bedrooms": 2,
+    "bathrooms": 2.0,
+    "max_guests": 5,
+    "nightly_floor": 170,
+    "nightly_target": 220,
+    "nightly_ceiling": 450,
+    "cleaning_cost": 140,
+    "enabled": true,
+    "hospitable_property_id": ""
+  },
+  {
+    "key": "DEMO_B_1BR",
+    "name": "Demo Unit B — 1BR",
+    "address": "456 Sample Ave Unit B, Springfield, CA 00000",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "max_guests": 3,
+    "nightly_floor": 125,
+    "nightly_target": 165,
+    "nightly_ceiling": 325,
+    "cleaning_cost": 100,
+    "enabled": true,
+    "hospitable_property_id": ""
+  }
+]

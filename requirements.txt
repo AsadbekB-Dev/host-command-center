@@ -1,0 +1,3 @@
+# Host Command Center v0.4 uses only Python standard-library modules.
+# Optional packaging dependency:
+# pyinstaller>=6.0

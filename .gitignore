@@ -1,0 +1,20 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+data/host_command_center.db*
+data/gmail_auth.json
+data/outbox/*
+data/webhook_inbox/*
+!data/properties.json
+!data/settings.example.json
+data/secrets.json
+data/.gmail_oauth_import.json
+
+data/webhook_processed/*
+
+# extra safety
+*.db-shm
+*.db-wal
+.env
+*token*
